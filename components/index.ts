@@ -1,8 +1,12 @@
 "use client"
 import Hero from "./Hero";
 import CustomButton from "./CustomButton";
+import Footer from "./Footer";
+import NavBar from "./Navbar";
 
 export {
     Hero,
-    CustomButton
+    CustomButton,
+    NavBar,
+    Footer
 };
